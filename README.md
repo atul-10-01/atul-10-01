@@ -8,18 +8,21 @@
     </p>
     <p><em>B.Tech ECE (ML Track) · MAIT, GGSIPU · Class of 2026</em></p>
   </div>
-  <div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=atul-10-01&show_icons=true&hide_border=true&theme=dark&exclude_lang=JS"
-         alt="GitHub Stats" width="360" style="margin-bottom: 10px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-10-01&layout=compact&hide_border=true&theme=dark&exclude_lang=JS"
-         alt="Top Languages" width="240"/>
-  </div>
-
-  <div>
-    <img src="./cover_image.png" alt="Atul coding setup" width="350px" style="border-radius:8px; display: block;"/>
-  </div>
-</div>
+ <table align="center">
+  <tr>
+    <td valign="top">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=atul-10-01&show_icons=true&hide_border=true&hide=contribs&theme=dark&exclude=C"
+             alt="Atul's GitHub Stats" width="360"/>
+        <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-10-01&layout=compact&hide_border=true&theme=dark&exclude_lang=C"
+             alt="Atul's Top Languages" width="240"/>
+      </p>
+    </td>
+    <td valign="top" align="right">
+      <img src="./cover_image.png" alt="Atul coding setup" width="350px" style="border-radius:8px;"/>
+    </td>
+  </tr>
+</table>
 
 <hr />
 
