@@ -6,7 +6,7 @@
       <a href="https://github.com/atul-10-01" style="text-decoration:none;"> <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" alt="GitHub"/> </a>
       <a href="https://linkedin.com/in/atul-nag-935233303/" style="text-decoration:none;"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
     </p>
-    <p><em>B.Tech ECE (ML Track) · MAIT, GGSIPU · Class of 2026</em></p>
+    <p><em>Aspiring Software Developer</em></p>
   </div>
  <table align="center">
   <tr>
