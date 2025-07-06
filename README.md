@@ -1,110 +1,74 @@
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 25px;">
-  <div style="flex: 1; min-width: 300px;">
-    <h1>Hi, I’m Atul Nag 👋</h1>
-    <p>
-      <a href="mailto:atulknag@gmail.com" style="text-decoration:none;"> <img src="https://img.shields.io/badge/atulknag@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email"/> </a>
-      <a href="https://github.com/atul-10-01" style="text-decoration:none;"> <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" alt="GitHub"/> </a>
-      <a href="https://linkedin.com/in/atul-nag-935233303/" style="text-decoration:none;"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
-    </p>
-    <p><em>Aspiring Software Developer</em></p>
-  </div>
- <table align="center">
-  <tr>
-    <td valign="top">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=atul-10-01&show_icons=true&hide_border=true&hide=contribs&theme=dark&exclude=C"
-             alt="Atul's GitHub Stats" width="360"/>
-        <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-10-01&layout=compact&hide_border=true&theme=dark&exclude_lang=C"
-             alt="Atul's Top Languages" width="240"/>
-      </p>
-    </td>
-    <td valign="top" align="right">
-      <img src="./cover_image.png" alt="Atul coding setup" width="350px" style="border-radius:8px;"/>
-    </td>
-  </tr>
-</table>
+<div style="max-width: 800px; margin: auto; font-family: sans-serif; line-height: 1.6;">
+  <h1>Hi, I’m Atul Nag 👋</h1>
+  <p>Email: <a href="mailto:atulknag@gmail.com">atulknag@gmail.com</a> · 
+     <a href="https://github.com/atul-10-01">GitHub</a> · 
+     <a href="https://linkedin.com/in/atul-nag-935233303/">LinkedIn</a></p>
+  <p><em>Aspiring Software Developer</em></p>
 
-<hr />
+  <hr />
 
-<h2>🌱 Currently Working On</h2>
-<ul>
-  <li><strong>XenoReach CRM</strong>: AI‑powered segmentation &amp; campaign automation</li>
-  <li><strong>KonnectUs</strong>: Real‑time feed, nested comments, infinite scroll</li>
-  <li><strong>ScrapSmart</strong>: E‑waste scanner UI improvements</li>
-</ul>
+  <h2>🌱 Currently Working On</h2>
+  <ul>
+    <li><strong>XenoReach CRM</strong>: AI‑powered segmentation & campaign automation</li>
+    <li><strong>KonnectUs</strong>: Real‑time feed, nested comments, infinite scroll</li>
+    <li><strong>ScrapSmart</strong>: E‑waste scanner UI improvements</li>
+  </ul>
 
-<h2>🎯 Learning Goals</h2>
-<ul>
-  <li><strong>TypeScript</strong>, <strong>Next.js</strong>, <strong>AWS (Lambda, S3)</strong></li>
-  <li><strong>Jest</strong> &amp; <strong>React Testing Library</strong></li>
-  <li><strong>DSA</strong> &amp; <strong>System Design</strong> prep</li>
-</ul>
+  <h2>🎯 Learning Goals</h2>
+  <ul>
+    <li>TypeScript, Next.js, AWS (Lambda, S3)</li>
+    <li>Jest & React Testing Library</li>
+    <li>DSA & System Design prep</li>
+  </ul>
 
-<hr />
+  <hr />
 
-<h2>🛠 Tech Stack</h2>
+  <h2>🛠 Tech Stack</h2>
+  <p>JavaScript, React.js, Node.js, Express.js, MongoDB, Java, MySQL, Tailwind CSS, Git, Postman</p>
 
-<div align="center" style="background-color:#9CA3AF; padding:12px; border-radius:8px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"   alt="JavaScript"   height="36px" style="margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"             alt="React.js"     height="36px" style="margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"           alt="Node.js"      height="36px" style="margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"         alt="Express.js"   height="36px" style="margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"         alt="MongoDB"      height="36px" style="margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"               alt="Java"         height="36px" style="margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"             alt="SQL"          height="36px" style="margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="36px" style="margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"                 alt="Git"          height="36px" style="margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"         alt="Postman"      height="36px" style="margin:4px;"/>
+  <hr />
+
+  <h2>🚀 Featured Projects</h2>
+  <ul>
+    <li>
+      <strong>XenoReach CRM</strong> – AI-Powered CRM Platform<br/>
+      Responsive UI with segment builder, Google OAuth & JWT auth.<br/>
+      <a href="https://github.com/atul-10-01/XenoReach-CRM">GitHub</a> · 
+      <a href="https://xeno-reach-crm.vercel.app">Demo</a>
+    </li>
+    <li>
+      <strong>KonnectUs</strong> – Full-Stack Social Media App<br/>
+      Infinite scroll, nested comments, JWT auth, email verification.<br/>
+      <a href="https://github.com/atul-10-01/KonnectUs">GitHub</a> · 
+      <a href="https://konnect-us-theta.vercel.app/">Demo</a>
+    </li>
+    <li>
+      <strong>ScrapSmart</strong> – E‑Waste Smart Disposal<br/>
+      Frontend AI-scanner with 90+ Lighthouse scores. Winner @ IBM CSR.<br/>
+      <a href="https://github.com/atul-10-01/ScrapSmart">GitHub</a> · 
+      <a href="https://scrap-smart.vercel.app">Demo</a>
+    </li>
+  </ul>
+
+  <hr />
+
+  <h2>🏆 Highlights</h2>
+  <ul>
+    <li>Winner, IBM CSR Annual Event – Innovation & UI for ScrapSmart</li>
+    <li>Finalist, Young Leader’s Case Comp (Master Union)</li>
+    <li>2nd Runner‑Up, Figma Design Competition (MAIT Tech Fest)</li>
+  </ul>
+
+  <hr />
+
+  <h2>📬 Let’s Connect!</h2>
+  <p>
+    Reach out at <a href="mailto:atulknag@gmail.com">atulknag@gmail.com</a> or connect on 
+    <a href="https://linkedin.com/in/atul-nag-935233303/">LinkedIn</a>.<br />
+    Open to SDE / Full‑Stack / React.js / Node.js internships!
+  </p>
+
+  <hr />
+
+  <p><em>“Code is like humor. When you have to explain it, it’s bad.”</em> – Cory House</p>
 </div>
-
-<hr />
-
-<h2>🚀 Featured Projects</h2>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th style="text-align: left; padding-bottom: 5px;">Project</th>
-      <th style="text-align: left; padding-bottom: 5px;">Description</th>
-      <th style="text-align: left; padding-bottom: 5px;">Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="vertical-align: top; padding-bottom: 10px;"><strong>XenoReach CRM</strong><br><sub>AI‑Powered CRM Platform</sub></td>
-      <td style="vertical-align: top; padding-bottom: 10px;">Responsive React.js + Tailwind UI with NL segment builder;<br>Google OAuth &amp; JWT auth;<br>Dashboards with Recharts &amp; Nivo.</td>
-      <td style="vertical-align: top; padding-bottom: 10px;"><a href="https://github.com/atul-10-01/XenoReach-CRM">GitHub</a> · <a href="https://xeno-reach-crm.vercel.app">Demo</a></td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; padding-bottom: 10px;"><strong>KonnectUs</strong><br><sub>Full‑Stack Social Media App</sub></td>
-      <td style="vertical-align: top; padding-bottom: 10px;">React.js + Tailwind frontend: infinite scroll, nested comments &amp; likes;<br>JWT auth, email verification, friend requests.</td>
-      <td style="vertical-align: top; padding-bottom: 10px;"><a href="https://github.com/atul-10-01/KonnectUs">GitHub</a> · <a href="https://konnect-us-theta.vercel.app/">Demo</a></td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; padding-bottom: 10px;"><strong>ScrapSmart</strong><br><sub>E‑Waste Smart Disposal</sub></td>
-      <td style="vertical-align: top; padding-bottom: 10px;">React.js + Tailwind CSS frontend with AI‑scanner;<br>Lighthouse: 97 Perf • 98 Acc • 100 BP • 100 SEO;<br>Winner @ IBM CSR Event.</td>
-      <td style="vertical-align: top; padding-bottom: 10px;"><a href="https://github.com/atul-10-01/ScrapSmart">GitHub</a> · <a href="https://scrap-smart.vercel.app">Demo</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<hr />
-
-<h2>🏆 Highlights</h2>
-<ul>
-  <li>🥇 <strong>Winner</strong>, IBM CSR Annual Event — Innovation &amp; UI for ScrapSmart</li>
-  <li>🏅 <strong>Finalist</strong>, Young Leader’s Case Comp (Master Union, 4,000+ participants)</li>
-  <li>🎨 <strong>2nd Runner‑Up</strong>, Figma Design Competition (MAIT Tech Fest)</li>
-</ul>
-
-<hr />
-
-<h2>📬 Let’s Connect!</h2>
-<p>
-  Reach out at <a href="mailto:atulknag@gmail.com">atulknag@gmail.com</a> or connect on <a href="https://linkedin.com/in/atul-nag-935233303/">LinkedIn</a>.<br />
-  Seeking <strong>SDE · Full‑Stack · React.js · Node.js</strong> internships!
-</p>
-
-<hr />
-
-<p><em>“Code is like humor. When you have to explain it, it’s bad.”</em> – Cory House</p>
